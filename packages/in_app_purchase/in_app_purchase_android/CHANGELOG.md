@@ -1,3 +1,7 @@
+## 0.2.2+4
+
+* Migrates to Google Play Billing Library 4.0.
+
 ## 0.2.2+3
 
 * Migrates from `ui.hash*` to `Object.hash*`.
